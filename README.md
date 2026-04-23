@@ -1,16 +1,17 @@
 <h1 align="center">Olá, eu sou a Vivian! 🌱</h1>
 
 <p align="center">
-  Desenvolvedora Front-End | Estudante de Ciência da Computação | Apaixonada por Natureza e Tecnologia
+  Desenvolvedora Front-End | Estudante de ADS | Apaixonada por Tecnologia e Design
 </p>
 
 ---
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=visantt&show_icons=true&theme=dark" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visantt&layout=compact&theme=dark" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=visantt&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visantt&layout=compact&theme=tokyonight&langs_count=6" />
 </p>
+
 
 ### 👩‍💻 Sobre mim
 
@@ -35,8 +36,10 @@
 ---
 
 ### 🚀 Projetos em destaque
+- 💇‍♀️ **Sistema de Salão (Projeto em grupo)**  
+Sistema para gerenciamento de clientes e atendimento  
 
-
+👉 Em constante evolução 🚧 
 
 ---
 
@@ -45,7 +48,7 @@
 - ✉️ E-mail: [viviaalvis90@gmail.com](mailto:viviaalvis90@gmail.com)  
 - 📱 WhatsApp: (91) 98225-4430  
 - 💼 [LinkedIn](https://www.linkedin.com/in/vivian-santiago-25531b222)
-- 💻 [Portfólio]()
+- 💻 [Portfólio](https://visantt.github.io/portifolio)
 
 ---
 

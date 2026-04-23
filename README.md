@@ -14,11 +14,11 @@
 
 ### 👩‍💻 Sobre mim
 
-- 🎓 Graduanda em **Ciência da Computação** no IFPA – Campus Ananindeua  
+- 🎓 Graduanda em **Análise e Desenvolvimento de Sistemas** na Uninter
 - 👩‍🔧 Técnica em Informática  
-- 🌐 Interesses: **Desenvolvimento Web**, **Ciência de Dados**, **UI/UX**, **Redes de Computadores**  
+- 🌐 Interesses: **Desenvolvimento Web**, **Ciência de Dados**, **UI/UX** 
 - 💼 Buscando oportunidades como **estagiária ou desenvolvedora júnior**  
-- 🧠 Sempre aprendendo algo novo! Atualmente estudando **PHP, Git e estruturação de projetos colaborativos**
+- 🧠 Sempre aprendendo algo novo! 
 
 ---
 
@@ -36,8 +36,7 @@
 
 ### 🚀 Projetos em destaque
 
-- 🎨 [Portfólio Pessoal](https://github.com/seu-usuario/seu-portfolio) – Um site com tema natureza e animações SVG
-- 🎬 [Clone da Netflix](https://github.com/seu-usuario/clone-netflix) – Layout responsivo de catálogo de filmes
+
 
 ---
 
@@ -46,7 +45,7 @@
 - ✉️ E-mail: [viviaalvis90@gmail.com](mailto:viviaalvis90@gmail.com)  
 - 📱 WhatsApp: (91) 98225-4430  
 - 💼 [LinkedIn](https://www.linkedin.com/in/vivian-santiago-25531b222)
-- 💻 [Portfólio](https://seusite.com)
+- 💻 [Portfólio]()
 
 ---
 
